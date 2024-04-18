@@ -1,4 +1,4 @@
-## Lemon challenge API  ![🍋](https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f34b.svg =32x32)
+## Lemon challenge API 🍋
 
 This project involves screening potential clients for eligibility to join Lemon. Some clients may not be accepted due to regulatory reasons or because it's not beneficial for either party. Eligibility is determined through checking data from the client's electricity bill. If ineligible, reasons must be clearly stated. If eligible, the projection of CO2 emissions reduction by using clean energy must also be calculated.
 
