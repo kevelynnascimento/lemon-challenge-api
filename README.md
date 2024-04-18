@@ -2,6 +2,8 @@
 
 This project involves screening potential clients for eligibility to join Lemon. Some clients may not be accepted due to regulatory reasons or because it's not beneficial for either party. Eligibility is determined through checking data from the client's electricity bill. If ineligible, reasons must be clearly stated. If eligible, the projection of CO2 emissions reduction by using clean energy must also be calculated.
 
+**Developed by Kevelyn Nascimento** <a href="https://www.linkedin.com/in/kevelynnascimento" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 ## Packages
 
 - Node.js (version >=16.14.0)
