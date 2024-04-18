@@ -16,7 +16,7 @@ This project involves screening potential clients for eligibility to join Lemon.
 
 ### Install Dependencies:
 
-```
+```bash
 npm install
 ```
 
@@ -30,19 +30,19 @@ npm install
 
 ### To start in regular mode:
 
-```
+```bash
 npm run start
 ```
 
 ### To start in development mode:
 
-```
+```bash
 npm run start
 ```
 
 ### To start in production mode:
 
-```
+```bash
 npm run prod
 ```
 
@@ -50,19 +50,19 @@ npm run prod
 
 ### Run Tests:
 
-```
+```bash
 npm run test
 ```
 
 ### Run Tests in Watch Mode (Dev):
 
-```
+```bash
 npm run test:dev
 ```
 
 ### Generate Test Coverage Report:
 
-```
+```bash
 npm run test:coverage
 ```
 
@@ -70,7 +70,7 @@ npm run test:coverage
 
 ### Informations:
 
-```
+```bash
 URL: http://localhost:3000/api/eligibility/verification
 Method: POST
 Payload type: JSON
@@ -78,7 +78,7 @@ Payload type: JSON
 
 ### cURL - Success:
 
-```json
+```bash
 curl --location 'http://localhost:3000/api/eligibility/verification' \
 --header 'Content-Type: application/json' \
 --data '{
@@ -105,7 +105,7 @@ curl --location 'http://localhost:3000/api/eligibility/verification' \
 
 ### cURL - Failure:
 
-```json
+```bash
 {
     "documentNumber": "14041737706",
     "connectionType": "bifasico",
